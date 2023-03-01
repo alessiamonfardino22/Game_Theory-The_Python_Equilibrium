@@ -2,8 +2,6 @@
 
 Game theory is a branch of mathematics that helps to analyze and understand social interactions in which individuals compete with each other.
 
-The file presents a Game Theory Python code based on Harry Potter and the Philosopher's Stone.
-
 The program includes:
 - A full description of the game theory situation;
 - A python print table that presents the possible outcomes for all combinations;
